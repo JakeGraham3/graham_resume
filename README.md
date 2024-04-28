@@ -6,15 +6,15 @@
 
 {Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Here's a link to a video walkthrough of Hello World in C++: 
 
-[Software Demo Video](http://youtube.link.goes.here)
+  [Software Demo Video](https://www.youtube.com/watch?v=Zbd7Ylgfzb4)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I typically love to use visual studio code or Jetbrains rider for a lot of the work I do.
 
-{Describe the programming language that you used}
+C++ is a language that I'd really love to learn more about.
 
 # Useful Websites
 
